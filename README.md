@@ -1,5 +1,5 @@
 # Merhaba, I'm Mario <img src="https://img.icons8.com/?size=100&id=32002&format=png&color=000000" width="35" height="35"></img>
-Sebagai mahasiswa ilmu komputer yang penuh semangat, hari-hariku dipenuhi dengan petualangan di dunia kode. Saya bercita-cita untuk melanjutkan pendidikan ke Turki, sebuah negara yang kaya akan sejarah dan budaya. Di sana, saya berharap bisa menyerap ilmu dari universitas-universitas ternama sambil menikmati keindahan arsitektur dan keramahan penduduknya. 🇹🇷✨
+As a computer science student with a passion for all things code, my days are filled with incredible adventures in the world of technology. I'm thrilled to be considering furthering my education in Turkey, a country with a rich history and culture. There, I'd have the amazing opportunity to soak up knowledge from some of the world's top universities while enjoying the stunning architecture and welcoming hospitality of its people. 🇹🇷✨
 
 *Hit me up on:*
 
